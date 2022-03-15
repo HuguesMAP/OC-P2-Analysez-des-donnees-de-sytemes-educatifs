@@ -9,3 +9,7 @@
 The data used for this project are available on The World Bank : https://datacatalog.worldbank.org/dataset/education-statistics
 
 The project was developped with Jupyter Notebook and Python 3.8
+
+## Files explanation
+* File **P2_01_notebook.ipynb** : Notebook used for the data exploration
+* File **P2_02_support.pptx** : Defense presentation
