@@ -1,4 +1,4 @@
-# OC-P2-Analyse des données de systèmes éducatifs.
+# OC-P2-Analyse des données de systèmes éducatifs (Analysis of data from education systems)
 
 ## Objectives
 
